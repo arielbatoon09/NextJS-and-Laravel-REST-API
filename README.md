@@ -15,7 +15,7 @@ Ready made development environment for NextJS with Laravel Breeze API
 3. Axios & SWR
 4. Laravel & Laravel Breeze
 
-# Creating Project From The Scratch Installation Guide
+# Creating Project From The Scratch Installation Guide (Optional)
 Part 1 - Front-end:
 1. Setup Front-end by installing NextJS dependencies. Command: npx create-next-app appname
 2. Create .env.local in Front-end main directory
@@ -31,3 +31,8 @@ Part 2 - Backend:
 1. Install Laravel Environment
 2. Install Laravel Breeze. Command: composer require laravel/breeze --dev
 3. Install Laravel Breeze API. Command: php artisan breeze:install api
+
+# IF SUCCESSFUL INSTALLATION
+Front-End: https://prnt.sc/VrPMK4u6G-r8
+<br>
+Back-end: https://prnt.sc/UlrOJzXoUaB3
