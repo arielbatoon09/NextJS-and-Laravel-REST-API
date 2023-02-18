@@ -1,6 +1,10 @@
 # NextJS-and-Laravel-REST-API
 Ready made development environment for NextJS with Laravel Breeze API
 
+# REMEMBER TO RUN THIS COMMAND BEFORE USING THE ENVIRONMENT
+1. Run this command in backend folder terminal. Command: composer update
+1. Run this 2 commands in frontend folder terminal. Command: npm install & npm run build
+
 # Followed Tutorial
 1. https://www.youtube.com/watch?v=NfgWgoo4tj8&list=PL1JpS8jP1wgA9EpT9UO0UuPrFcJxGUcxH&index=2
 2. https://www.youtube.com/watch?v=Y1i1YkTAAmk&list=PL1JpS8jP1wgBgHJBMg9EZ6sR45LaF9cvE&index=2
